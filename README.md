@@ -12,8 +12,6 @@ The project follows the **Medallion Architecture**:
 
 **Bronze → Silver → Gold**
 
-![Data Architecture](docs/data_architecture.png)
-
 ### 🥉 Bronze Layer
 
 Stores raw data from **ERP and CRM CSV files** with minimal transformation.
